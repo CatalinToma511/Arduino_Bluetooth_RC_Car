@@ -3,7 +3,7 @@ A simple RC car made with an Arduino Nano board, a Bluetooth module controlled w
 
 Car controller is an Android smartphone with this application: https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=en&gl=US
 
-The car was made using:
+The car was made using:  
 -a cheap toy car  
 -12V battery  
 -Arduino Uno  
