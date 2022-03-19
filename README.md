@@ -13,7 +13,7 @@ The car was made using:
 -MG996R servo for steering  
 -modified MG90S servo as a winch (*2*)  
 -LEDs, resistors and transistors  
-(*1*) *the front axle and steering was made using PCV pipe*  
+(*1*) *the front axle and steering was made using PVC pipe*  
 (*2*) *the potentiometer of the servo's controller was replaced with a voltage divider made from 2x 2.5 kOhm resistors, so now it acts as a bidirectional brushed ESC* 
 
 Features:  
